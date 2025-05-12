@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 class App:
     def __init__(self):
-        self.tamanios: List[int] = [5,10,30,50,100]
+        self.tamanios: List[int] = [500, 1000, 3000, 5000,  10000]
         self.tamanios_maximo: int = max(self.tamanios)
         self.arreglo_base: List[int] = self.benchmarking_arreglo(self.tamanios_maximo)
         self.algoritmos: Dict[str,Callable] = {

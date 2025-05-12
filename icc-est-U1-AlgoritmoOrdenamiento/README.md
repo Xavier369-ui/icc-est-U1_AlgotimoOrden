@@ -5,7 +5,7 @@
 - **Título:** Análisis de Algoritmos de Ordenamiento
 - **Asignatura:** Estructura de Datos
 - **Carrera:** Computación
-- **Estudiante:** [Xavier Fajardo y  ]
+- **Estudiante:** [Xavier Fajardo y Cristian Arevalo ]
 - **Fecha:** [Fecha Actual]
 - **Profesor:** Ing. Pablo Torres
 
