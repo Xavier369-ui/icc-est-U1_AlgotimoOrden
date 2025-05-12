@@ -37,6 +37,10 @@ El tiempo de ejecución se mide en segundos utilizando la biblioteca `time`.
 
 ![Image Altl](https://github.com/Xavier369-ui/icc-est-U1_AlgotimoOrden/blob/4d95927a9e0d86e431111ee7b9581da081366e81/grafico_ordenamiento.png)
 
+## Justificacion 
+Disculpe tuvimos que bajar un cero a los arreglos ya que se nos congelaba con arreglos mas grandes
+![Image Alt](https://github.com/Xavier369-ui/icc-est-U1_AlgotimoOrden/blob/6fa6044175a8653f30be668fda66b6299207b287/Imagen%20de%20WhatsApp%202025-05-11%20a%20las%2022.52.46_08de3804.jpg)
+
 ## Conclusion
 
 - Los algoritmos de ordenamiento Burbuja , Seleccion e Inserccion presentan una complejidad O(n**2), lo que hace ineficientes para arreglos da datos grandes.
