@@ -35,7 +35,7 @@ El tiempo de ejecución se mide en segundos utilizando la biblioteca `time`.
 
 ## 🚀 Grafica 
 
-aqui
+![Image Altl(https://github.com/Xavier369-ui/icc-est-U1_AlgotimoOrden/blob/4d95927a9e0d86e431111ee7b9581da081366e81/grafico_ordenamiento.png)
 
 ## Conclusion
 
